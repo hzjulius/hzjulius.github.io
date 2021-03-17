@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julius&#39;s blog</title>
+    <link>https://hzjulius.github.io/</link>
+    <description>Recent content on Julius&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://hzjulius.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>目录</title>
+      <link>https://hzjulius.github.io/</link>
+      <pubDate>Wed, 17 Mar 2021 14:14:50 +0800</pubDate>
+      
+      <guid>https://hzjulius.github.io/</guid>
+      <description>一名平凡的运维人员</description>
+    </item>
+    
+  </channel>
+</rss>
